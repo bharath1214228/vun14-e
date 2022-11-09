@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.pixabay.com	TRUE	/	FALSE	1999999999	__cf_bm	a981gk2MUcnNg9YxqPW3Uhi7Awr6xAae7UgD4iOQT90-1668008526-0-AcqwhUQAXiX5YfA1n7jKzqWmJ4yFl8QZ3l3+ENjeCmfpw83NtPw720+NyVQmtoTqU5pQNoAkAWIQZoS3lxEoAfI=
+cdn.pixabay.com	TRUE	/	FALSE	1999999999	SameSite	None
+
